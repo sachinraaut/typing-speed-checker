@@ -65,4 +65,7 @@ textarea:focus {
 	h2 {
 		font-size: 16px;
 	}
+	.mainDiv {
+		height: auto;
+	}
 }
